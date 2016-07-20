@@ -1,8 +1,8 @@
 # Ping Pong Numbers Game
 
-#### Enter a positive number and numbers between 1 and specified number get ping, pong, or pingpong depending on the criteria, 4/1/2016
+#### Enter a positive number and numbers between 1 and specified number get ping, pong, or pingpong depending on the criteria. 
 
-#### By Cory Franks
+#### By Cory Franks on 4/1/2016
 
 ## Description
 
